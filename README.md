@@ -1,1 +1,1 @@
-# chh_pt_repository
+# 충주상업고 포트폴리오 제작 강의용
